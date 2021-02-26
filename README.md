@@ -17,3 +17,7 @@ Within the CPU an interaction takes place where the ALU and and control unit mus
 The example addresses each of the components by first getting input which is the conversion of an action (you scaaning the item you wish to buy) into binary. With the computer now having binary code it goes to the CPU where it will store the results into memory. The last part is output which in this scenerio would be a monitor to display the items you will be buying.
 
 ### Hardware: Logic Gates 
+The purpose of a truth table is to show the output you get for every possible input. This applies to the computing process by showing us the results of the functional expression so we can get our answers.
+
+### Hardware: IEEE Ethically Aligned Design
+The purpose of the IEEE is to advance innovation and technological excellence to better humanity. The importance of ethics in device design is to ensure safe and fair practices so people do not get hurt and everyone has an equal opprotunity to better the world in a technological format.
