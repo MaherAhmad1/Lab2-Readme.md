@@ -13,4 +13,5 @@ RAM or Random Access Memory is an important part of computers because it is a hi
 ### Hardware: ALU and the Control Unit
 Within the CPU an interaction takes place where the ALU and and control unit must work together to perfrom operations. To say it simply the ALU perfroms simple math such as addition and multiplication, then that data gets stored into a memory, and lastly the control unit will get that data and it's instructions to perfrom the action that is needed.
 
-### Hardware: Cpu, Input & Outout
+### Hardware: CPU, Input & Outout
+The example addresses each of the components by first getting input which is the conversion of an action (you scaaning the item you wish to buy) into binary. With the computer now having binary code it goes to the CPU where it will store the results into memory. The last part is output which in this scenerio would be a monitor to display the items you will be buying.
