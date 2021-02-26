@@ -21,3 +21,5 @@ The purpose of a truth table is to show the output you get for every possible in
 
 ### Hardware: IEEE Ethically Aligned Design
 The purpose of the IEEE is to advance innovation and technological excellence to better humanity. The importance of ethics in device design is to ensure safe and fair practices so people do not get hurt and everyone has an equal opprotunity to better the world in a technological format.
+
+### Data Representation 
