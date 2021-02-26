@@ -15,3 +15,5 @@ Within the CPU an interaction takes place where the ALU and and control unit mus
 
 ### Hardware: CPU, Input & Outout
 The example addresses each of the components by first getting input which is the conversion of an action (you scaaning the item you wish to buy) into binary. With the computer now having binary code it goes to the CPU where it will store the results into memory. The last part is output which in this scenerio would be a monitor to display the items you will be buying.
+
+### Hardware: Logic Gates 
