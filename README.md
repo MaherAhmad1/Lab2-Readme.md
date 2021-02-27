@@ -22,4 +22,5 @@ The purpose of a truth table is to show the output you get for every possible in
 ### Hardware: IEEE Ethically Aligned Design
 The purpose of the IEEE is to advance innovation and technological excellence to better humanity. The importance of ethics in device design is to ensure safe and fair practices so people do not get hurt and everyone has an equal opprotunity to better the world in a technological format.
 
-### Data Representation 
+### Data Representation: Numeric Conversions
+Within this sub-section there are decimal, binary, and hexadecimal numbers and there are a few key differences between them all. First let me give you a short explanation of each one. Base Ten (Decimal) is the number system you use everyday one through ten. Binary is base-two which means that it only uses the numbers zero and one with the value of each place doubling it's predecessor. Lastly we have "Hexadecimal" which is base-sixteen. This means that there are a possible sixteen different digits that can appear in a line or space, with the values being one through nine then A-F to replace ten through fifteen. In the end the difference between all of these is how they are written and what the outcome will look like.
