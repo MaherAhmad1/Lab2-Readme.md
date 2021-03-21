@@ -30,3 +30,7 @@ The representation of #abb0ff is a hue of the color blue. When it comes down to 
 
 ### Cloud Computing VS Virtualization
 The difference between CC and Virtualization is is that virtualization is first of all a physical piece of hardware while cloud computing is non-physical IT tool. The second difference is that virtualization is technology that allows you to have multiple dedicated resources from the use of one piece of hardware, while cloud computing is a tool that can share and pool resources across it's entire network. "To put it simply, virtualization is a technology, where cloud is an environment." A network admin can move from virtualization to cloud by the use of software called hypervisor. Hypervsior is another physical device which has access to virtual environmeants called virtual machines. Virtual machines can be used to raw process power, storage, or cloud based applications. This is how the two can be interconnected. 
+
+### Python
+The pseudo-code nature of Python is a strength of Python that allows you to focus on the solution to the problem rather than the language of Python, which makes usuing it very easy. An interpreted language is different from a compiled language because you do not need compilation to run binary, instead it is ran directly from the source code. A language like Python is interpreted because it does not need to be compiled in order to work, it just goes off it's source code.
+
